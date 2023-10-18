@@ -1,1 +1,1 @@
-# practica1
+# practica 1 diseño de interfaces
